@@ -6,7 +6,7 @@
 
 <br/>
 
-오타를 발견할 경우 [여기](https://github.com/70825/Koala-Basic-Algorithm-Study-Semester/issues)에 글을 작성해주세요~!!
+오타를 발견할 경우 [여기](https://github.com/70825/Koala-Basic-Algorithm-Study-Vacation/issues)에 글을 작성해주세요~!!
 
 <br/>
 <br/>
